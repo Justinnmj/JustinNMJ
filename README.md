@@ -248,3 +248,180 @@ After committing this file, go to the **Actions** tab and run the workflow manua
 | **Recruiter-friendly** | Goals and "What I Do" sections signal direction without overpromising |
 
 This README presents you as a serious, self-aware student developer who is actively building skills and shipping real projects—exactly what recruiters and collaborators look for at your stage.
+
+
+
+<!-- ===================================================== -->
+<!-- JUSTIN NMJ | PROFESSIONAL GITHUB PROFILE -->
+<!-- Repository: JustinNMJ -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+# Hi, I'm Justin Nshokano 👋
+
+### Software Developer | BBIT Student | IT & Technology Enthusiast
+
+Building digital solutions through software, technology,
+business innovation and continuous learning.
+
+[![GitHub](https://img.shields.io/badge/GitHub-JustinNMJ-181717?style=for-the-badge&logo=github)](https://github.com/JustinNMJ)
+[![Profile Views](https://komarev.com/ghpvc/?username=JustinNMJ&style=for-the-badge&color=blue)](https://github.com/JustinNMJ)
+
+**English 🇬🇧 | Français 🇫🇷**
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a Bachelor of Business Information Technology (BBIT) student
+with a background in Electrical Engineering and a strong interest
+in software development, information systems and digital innovation.
+
+I enjoy transforming ideas into practical digital solutions,
+exploring new technologies and developing applications that
+solve real-world problems.
+
+- 🎓 BBIT Student — Strathmore University
+- ⚡ Background in Electrical Engineering
+- 💻 Interested in Software Engineering and IT Systems
+- 🌍 Interested in African technology and digital entrepreneurship
+- 🚀 Building web, mobile and business-oriented applications
+- 📚 Continuously learning, experimenting and improving
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Frameworks & Tools
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Databases & Systems
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Business & IT
+
+- Business Information Systems
+- Database Design and Management
+- IT Support and Computer Systems
+- Microsoft Office and Productivity Tools
+- Requirements Analysis and Project Documentation
+- Electrical and Electronic Engineering Fundamentals
+
+---
+
+## 🚀 Featured Projects
+
+### 1. KaziLink
+**Employment & Digital Workforce Platform**
+
+A digital platform concept connecting manual workers, skilled tradespeople
+and potential employers in the Democratic Republic of Congo.
+
+Technologies: Flutter, Python, Django, Database Systems.
+
+Status: In Development.
+
+### 2. Chillza Tickets
+**Event Management & Ticketing Platform**
+
+A ticketing platform concept designed to facilitate event discovery,
+ticket sales, registration and event management across the DRC.
+
+Technologies: Web Development, Backend APIs, Database Systems.
+
+Status: Planning & Design.
+
+### 3. Dr Gloire Consultation
+**Healthcare Management Application**
+
+A digital consultation management project focused on appointment
+management, patient records and communication.
+
+Technologies: Python, Django, PostgreSQL, APIs.
+
+Repository: https://github.com/Justinnmj/Dr-Gloire
+
+### 4. SNCC Train Reservation System
+**Railway Reservation Information System**
+
+An academic information system concept for managing train schedules,
+passenger reservations and seat allocation.
+
+Technologies: HTML, CSS, JavaScript, PHP, MySQL.
+
+Status: Academic Project.
+
+### 5. Talk(us)
+**Culture, Creativity & Talent Platform**
+
+A platform concept for discovering, sharing and promoting African
+culture, creative talent and community initiatives.
+
+Technologies: Flutter, PWA, Backend Development.
+
+Status: Concept & Development Planning.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinNMJ&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinNMJ&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JustinNMJ&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Developing practical web applications.
+- Improving Python and Django development.
+- Learning Flutter and cross-platform mobile development.
+- Strengthening database architecture and API integration.
+- Understanding cybersecurity and computer systems.
+- Building technology solutions for African markets.
+
+---
+
+## 🤝 Let's Connect
+
+I am open to collaboration, learning opportunities,
+technology projects and professional networking.
+
+**GitHub:** https://github.com/JustinNMJ
+
+---
+
+<div align="center">
+
+### "Learn. Build. Innovate. Repeat."
+
+*Turning knowledge into practical solutions.*
+
+</div>
