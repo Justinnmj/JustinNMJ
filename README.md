@@ -291,3 +291,7 @@ I welcome opportunities to learn, contribute to open-source projects, collaborat
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:172554,100:0b1020&height=115&section=footer" alt="Profile footer banner" />
 
 </div>
+<!-- WakaTime Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JustinNMJ&theme=tokyonight&hide_border=true&layout=compact" />
+</div>S==
