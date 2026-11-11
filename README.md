@@ -17,6 +17,15 @@
 
 ## 👨‍💻 About Me | À propos de moi
 
+<div align="center">
+
+### TECHNOLOGY MINDED · BUSINESS ORIENTED · ALWAYS BUILDING
+
+<img src="https://img.shields.io/badge/EDUCATION-BBIT%20%7C%20STRATHMORE%20UNIVERSITY-123b68?style=for-the-badge&labelColor=0f172a" alt="BBIT at Strathmore University" />
+<img src="https://img.shields.io/badge/BACKGROUND-ELECTRICAL%20ENGINEERING-0f766e?style=for-the-badge&labelColor=0f172a" alt="Electrical Engineering background" />
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -40,30 +49,36 @@ Je m'intéresse au développement logiciel, aux infrastructures informatiques, a
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎓-BBIT%20Student-123b68?style=for-the-badge" alt="BBIT student" />
-  <img src="https://img.shields.io/badge/⚡-Electrical%20Engineering-0f766e?style=for-the-badge" alt="Electrical Engineering background" />
-  <img src="https://img.shields.io/badge/🌍-African%20Tech%20Innovation-7c3aed?style=for-the-badge" alt="African technology innovation" />
-</p>
+<div align="center">
 
-- 🎓 **Education:** BBIT student — Strathmore University
-- ⚡ **Background:** Electrical Engineering
-- 💻 **Interests:** Web, backend and mobile development
-- 🗄️ **Learning:** Database design, APIs and information systems
-- 🌍 **Vision:** Practical technology solutions for African markets
-- 📚 **Mindset:** Always learning, experimenting and improving
+| 🎓 EDUCATION | ⚡ BACKGROUND | 💻 INTERESTS | 🌍 VISION |
+|:---:|:---:|:---:|:---:|
+| BBIT Student | Electrical Engineering | Web · Backend · Mobile | African Digital Solutions |
+
+</div>
+
+- 🗄️ **Currently learning:** Database design, APIs and information systems
+- 📚 **Personal approach:** Learn by building, experiment, improve and share knowledge
 
 ---
 
 ## 🧠 What I Do | Ce que je fais
 
+<p align="center">A combination of software, engineering, business and creative thinking.</p>
+
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-### 💻 Software Development
+<div align="center">
 
-Build and explore software solutions across different platforms.
+### 💻 SOFTWARE DEVELOPMENT
+
+<img src="https://img.shields.io/badge/BUILD-Applications-2563eb?style=flat-square" alt="Application development" />
+
+</div>
+
+Developing the logic and interfaces behind useful digital products.
 
 - Web application development
 - Programming fundamentals
@@ -71,11 +86,17 @@ Build and explore software solutions across different platforms.
 - Mobile application development
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-### ⚙️ IT & Engineering
+<div align="center">
 
-Understand the systems and infrastructure that make technology work.
+### ⚙️ IT & ENGINEERING
+
+<img src="https://img.shields.io/badge/UNDERSTAND-Systems-0f766e?style=flat-square" alt="IT systems" />
+
+</div>
+
+Exploring the computer systems and infrastructure that power technology.
 
 - Computer systems and troubleshooting
 - Hardware fundamentals
@@ -85,11 +106,17 @@ Understand the systems and infrastructure that make technology work.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-### 📊 Business Technology
+<div align="center">
 
-Connect technology with business needs and processes.
+### 📊 BUSINESS TECHNOLOGY
+
+<img src="https://img.shields.io/badge/CONNECT-Business%20%2B%20IT-7c3aed?style=flat-square" alt="Business and IT" />
+
+</div>
+
+Connecting technology with business needs, people and processes.
 
 - Business Information Systems
 - Database management
@@ -97,11 +124,17 @@ Connect technology with business needs and processes.
 - Digital business solutions
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-### 🚀 Digital Innovation
+<div align="center">
 
-Explore ideas and turn them into practical digital products.
+### 🚀 DIGITAL INNOVATION
+
+<img src="https://img.shields.io/badge/CREATE-New%20Possibilities-d97706?style=flat-square" alt="Digital innovation" />
+
+</div>
+
+Exploring ideas and shaping them into practical digital products.
 
 - Digital platform concepts
 - Technology entrepreneurship
@@ -111,6 +144,135 @@ Explore ideas and turn them into practical digital products.
 </td>
 </tr>
 </table>
+
+---
+
+## 🚀 Featured Projects | Projets
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Selected%20Projects-123b68?style=for-the-badge&labelColor=0f172a" alt="Selected projects" />
+</p>
+
+<p align="center">A selection of academic work, product concepts and development initiatives focused on practical challenges.</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔗 KaziLink</h3>
+
+<img width="100%" src="https://img.shields.io/badge/WORKFORCE-OPPORTUNITY%20PLATFORM-0f766e?style=for-the-badge" alt="KaziLink workforce platform" />
+
+Connecting skilled tradespeople and casual workers with job opportunities across the Democratic Republic of the Congo.
+
+**Product areas**
+- Worker and employer profiles
+- Job discovery and applications
+- Web and mobile experience
+- Backend and database design
+
+<sub><strong>Stage:</strong> Planning and development</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎟️ Chillza Tickets</h3>
+
+<img width="100%" src="https://img.shields.io/badge/EVENTS-DISCOVERY%20%26%20TICKETING-7c3aed?style=for-the-badge" alt="Chillza Tickets event platform" />
+
+An event discovery, registration and ticketing platform concept designed for the DRC market.
+
+**Product areas**
+- Event discovery and publishing
+- Digital registration and tickets
+- Event organiser tools
+- Digital payment integration
+
+<sub><strong>Stage:</strong> Planning and product design</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🩺 Dr Gloire Consultation</h3>
+
+<img width="100%" src="https://img.shields.io/badge/HEALTHCARE-CONSULTATION%20MANAGEMENT-0891b2?style=for-the-badge" alt="Consultation management project" />
+
+A consultation-management project focused on organising appointments and patient information.
+
+**Technology focus**
+- Django and Python
+- PostgreSQL
+- API integration
+- Information management
+
+<a href="https://github.com/Justinnmj/Dr-Gloire"><strong>↗ VIEW REPOSITORY</strong></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🚆 SNCC Train Reservation</h3>
+
+<img width="100%" src="https://img.shields.io/badge/TRANSPORT-RAILWAY%20RESERVATION-2563eb?style=for-the-badge" alt="Railway reservation system" />
+
+An academic railway reservation system concept covering schedules, passengers and seat reservations.
+
+**Technology focus**
+- HTML, CSS and JavaScript
+- PHP and MySQL
+- Reservation workflows
+- Database design
+
+<sub><strong>Stage:</strong> Academic project</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌍 Talk(us)</h3>
+
+<img width="100%" src="https://img.shields.io/badge/COMMUNITY-CULTURE%20%26%20TALENT-d97706?style=for-the-badge" alt="Talk us culture and talent platform" />
+
+A platform concept for sharing culture, creativity and talent, and connecting communities.
+
+**Product areas**
+- Culture and creative content
+- Talent discovery
+- Flutter and PWA
+- Community-focused technology
+
+<sub><strong>Stage:</strong> Concept and planning</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎼 Tom Music Scores</h3>
+
+<img width="100%" src="https://img.shields.io/badge/MUSIC-DIGITAL%20SCORES-9333ea?style=for-the-badge" alt="Tom Music Scores project" />
+
+A digital project concept for managing, organising and sharing musical scores.
+
+**Product areas**
+- Digital score management
+- Application design
+- Database technology
+- Music-focused user experience
+
+<sub><strong>Stage:</strong> Project initiative</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Building ideas into useful technology, one project at a time.**
+
+</div>
+
+> **Project transparency:** These projects are at different stages. Some are concepts or planning initiatives, while others include practical development work. They are not all completed or deployed products.
 
 ---
 
