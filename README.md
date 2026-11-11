@@ -1,30 +1,24 @@
-<!-- JustinNMJ profile README | Repository name must match username: JustinNMJ -->
+<!-- Profile README for JustinNMJ | Keep project stages accurate and update as work progresses. -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:123b68,100:06b6d4&height=190&section=header&text=JUSTIN%20NMJ&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technology%20%7C%20Software%20%7C%20Innovation&descAlignY=60&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:172554,100:0891b2&height=200&section=header&text=JUSTIN%20NMJ&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20%7C%20SYSTEMS%20%7C%20DIGITAL%20INNOVATION&descAlignY=62&descSize=15" alt="Justin NMJ profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Business+Information+Technology;Software+%26+Web+Development;IT+Systems+%26+Digital+Innovation;Learning+%7C+Building+%7C+Growing" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Business+Information+Technology;Web+%26+Mobile+Development;AI+%26+Cybersecurity+Exploration;IT+Systems+%26+Electrical+Engineering;Learn+%7C+Build+%7C+Improve+%7C+Share" alt="Animated developer focus" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-JustinNMJ-181717?style=for-the-badge&logo=github)](https://github.com/JustinNMJ)
-[![Profile views](https://komarev.com/ghpvc/?username=JustinNMJ&style=for-the-badge&color=blue)](https://github.com/JustinNMJ)
+<br/>
 
-**English 🇬🇧 · Français 🇫🇷**
+[![GitHub](https://img.shields.io/badge/GitHub-JustinNMJ-111827?style=for-the-badge&logo=github)](https://github.com/JustinNMJ)
+[![Profile views](https://komarev.com/ghpvc/?username=JustinNMJ&style=for-the-badge&color=0891b2)](https://github.com/JustinNMJ)
+[![Bilingual](https://img.shields.io/badge/Languages-English%20%7C%20Français-1d4ed8?style=for-the-badge)](https://github.com/JustinNMJ)
+
+**ENGLISH 🇬🇧 · FRANÇAIS 🇫🇷**
 
 </div>
 
 ---
 
-## 👨‍💻 About Me | À propos de moi
-
-<div align="center">
-
-### TECHNOLOGY MINDED · BUSINESS ORIENTED · ALWAYS BUILDING
-
-<img src="https://img.shields.io/badge/EDUCATION-BBIT%20%7C%20STRATHMORE%20UNIVERSITY-123b68?style=for-the-badge&labelColor=0f172a" alt="BBIT at Strathmore University" />
-<img src="https://img.shields.io/badge/BACKGROUND-ELECTRICAL%20ENGINEERING-0f766e?style=for-the-badge&labelColor=0f172a" alt="Electrical Engineering background" />
-
-</div>
+## 👨‍💻 About Me | À propos
 
 <table>
 <tr>
@@ -32,18 +26,22 @@
 
 ### 🇬🇧 English
 
-I am a **Bachelor of Business Information Technology (BBIT)** student at **Strathmore University**, Nairobi, Kenya, with a background in **Electrical Engineering**.
+I am a **Bachelor of Business Information Technology (BBIT)** student at **Strathmore University**, Nairobi, with an educational background in **Electrical Engineering**.
 
-I am interested in software development, IT infrastructure, business technology and digital innovation. I enjoy turning ideas into practical digital solutions and learning by building.
+I am interested in building useful digital products and understanding the systems behind them. My interests bring together software development, business technology, IT infrastructure, artificial intelligence, cybersecurity and engineering.
+
+I learn by experimenting, building projects, documenting what I discover and improving step by step.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🇫🇷 Français
 
-Je suis étudiant en **Business Information Technology (BBIT)** à **Strathmore University**, à Nairobi, au Kenya. J'ai également une formation en **génie électrique**.
+Je suis étudiant en **Bachelor of Business Information Technology (BBIT)** à **Strathmore University**, à Nairobi, avec une formation en **génie électrique**.
 
-Je m'intéresse au développement logiciel, aux infrastructures informatiques, aux technologies d'entreprise et à l'innovation numérique. J'aime transformer des idées en solutions concrètes tout en apprenant par la pratique.
+Je m'intéresse à la création de produits numériques utiles et à la compréhension des systèmes qui les rendent possibles. Mes centres d'intérêt réunissent le développement logiciel, les technologies d'entreprise, les infrastructures IT, l'intelligence artificielle, la cybersécurité et l'ingénierie.
+
+J'apprends en expérimentant, en développant des projets, en documentant mes découvertes et en progressant étape par étape.
 
 </td>
 </tr>
@@ -51,279 +49,126 @@ Je m'intéresse au développement logiciel, aux infrastructures informatiques, a
 
 <div align="center">
 
-| 🎓 EDUCATION | ⚡ BACKGROUND | 💻 INTERESTS | 🌍 VISION |
+| 🎓 EDUCATION | ⚡ ENGINEERING | 💻 TECHNOLOGY | 🌍 DIRECTION |
 |:---:|:---:|:---:|:---:|
-| BBIT Student | Electrical Engineering | Web · Backend · Mobile | African Digital Solutions |
+| BBIT · Strathmore University | Electrical Engineering | Software · IT · AI | Practical digital solutions |
 
 </div>
 
-- 🗄️ **Currently learning:** Database design, APIs and information systems
-- 📚 **Personal approach:** Learn by building, experiment, improve and share knowledge
-
 ---
 
-## 🧠 What I Do | Ce que je fais
-
-<p align="center">A combination of software, engineering, business and creative thinking.</p>
+## 🧭 Technical Interests | Domaines techniques
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 💻 SOFTWARE DEVELOPMENT
-
-<img src="https://img.shields.io/badge/BUILD-Applications-2563eb?style=flat-square" alt="Application development" />
-
-</div>
-
-Developing the logic and interfaces behind useful digital products.
-
+### 💻 Software Engineering
 - Web application development
-- Programming fundamentals
-- Backend and API development
+- Backend development and APIs
 - Mobile application development
+- Programming and software design
+
+### 🧠 AI & Emerging Technology
+- Artificial intelligence fundamentals
+- Exploring practical AI applications
+- Automation and intelligent systems
+- Responsible use of emerging technology
+
+### 🔐 Cybersecurity
+- Cybersecurity fundamentals
+- Networking and system security
+- Secure development practices
+- Learning through legal labs and practice
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### ⚙️ IT & ENGINEERING
-
-<img src="https://img.shields.io/badge/UNDERSTAND-Systems-0f766e?style=flat-square" alt="IT systems" />
-
-</div>
-
-Exploring the computer systems and infrastructure that power technology.
-
-- Computer systems and troubleshooting
-- Hardware fundamentals
+### 🖥️ IT Systems & Infrastructure
+- Computer hardware and operating systems
 - Networking fundamentals
-- IT support and system concepts
+- Troubleshooting and IT support
+- System administration concepts
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 📊 Business & Information Systems
+- Business analysis
+- Database design and management
+- Information systems
+- Digital product and process thinking
 
-<div align="center">
-
-### 📊 BUSINESS TECHNOLOGY
-
-<img src="https://img.shields.io/badge/CONNECT-Business%20%2B%20IT-7c3aed?style=flat-square" alt="Business and IT" />
-
-</div>
-
-Connecting technology with business needs, people and processes.
-
-- Business Information Systems
-- Database management
-- Requirements analysis
-- Digital business solutions
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🚀 DIGITAL INNOVATION
-
-<img src="https://img.shields.io/badge/CREATE-New%20Possibilities-d97706?style=flat-square" alt="Digital innovation" />
-
-</div>
-
-Exploring ideas and shaping them into practical digital products.
-
-- Digital platform concepts
-- Technology entrepreneurship
-- Product planning
-- Creative problem-solving
+### ⚡ Electrical Engineering
+- Electrical engineering foundations
+- Electronics and basic circuits
+- Hardware and software interaction
+- Exploring embedded systems
 
 </td>
 </tr>
 </table>
-
----
-
-## 🚀 Featured Projects | Projets
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Selected%20Projects-123b68?style=for-the-badge&labelColor=0f172a" alt="Selected projects" />
-</p>
-
-<p align="center">A selection of academic work, product concepts and development initiatives focused on practical challenges.</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🔗 KaziLink</h3>
-
-<img width="100%" src="https://img.shields.io/badge/WORKFORCE-OPPORTUNITY%20PLATFORM-0f766e?style=for-the-badge" alt="KaziLink workforce platform" />
-
-Connecting skilled tradespeople and casual workers with job opportunities across the Democratic Republic of the Congo.
-
-**Product areas**
-- Worker and employer profiles
-- Job discovery and applications
-- Web and mobile experience
-- Backend and database design
-
-<sub><strong>Stage:</strong> Planning and development</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🎟️ Chillza Tickets</h3>
-
-<img width="100%" src="https://img.shields.io/badge/EVENTS-DISCOVERY%20%26%20TICKETING-7c3aed?style=for-the-badge" alt="Chillza Tickets event platform" />
-
-An event discovery, registration and ticketing platform concept designed for the DRC market.
-
-**Product areas**
-- Event discovery and publishing
-- Digital registration and tickets
-- Event organiser tools
-- Digital payment integration
-
-<sub><strong>Stage:</strong> Planning and product design</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🩺 Dr Gloire Consultation</h3>
-
-<img width="100%" src="https://img.shields.io/badge/HEALTHCARE-CONSULTATION%20MANAGEMENT-0891b2?style=for-the-badge" alt="Consultation management project" />
-
-A consultation-management project focused on organising appointments and patient information.
-
-**Technology focus**
-- Django and Python
-- PostgreSQL
-- API integration
-- Information management
-
-<a href="https://github.com/Justinnmj/Dr-Gloire"><strong>↗ VIEW REPOSITORY</strong></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🚆 SNCC Train Reservation</h3>
-
-<img width="100%" src="https://img.shields.io/badge/TRANSPORT-RAILWAY%20RESERVATION-2563eb?style=for-the-badge" alt="Railway reservation system" />
-
-An academic railway reservation system concept covering schedules, passengers and seat reservations.
-
-**Technology focus**
-- HTML, CSS and JavaScript
-- PHP and MySQL
-- Reservation workflows
-- Database design
-
-<sub><strong>Stage:</strong> Academic project</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🌍 Talk(us)</h3>
-
-<img width="100%" src="https://img.shields.io/badge/COMMUNITY-CULTURE%20%26%20TALENT-d97706?style=for-the-badge" alt="Talk us culture and talent platform" />
-
-A platform concept for sharing culture, creativity and talent, and connecting communities.
-
-**Product areas**
-- Culture and creative content
-- Talent discovery
-- Flutter and PWA
-- Community-focused technology
-
-<sub><strong>Stage:</strong> Concept and planning</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🎼 Tom Music Scores</h3>
-
-<img width="100%" src="https://img.shields.io/badge/MUSIC-DIGITAL%20SCORES-9333ea?style=for-the-badge" alt="Tom Music Scores project" />
-
-A digital project concept for managing, organising and sharing musical scores.
-
-**Product areas**
-- Digital score management
-- Application design
-- Database technology
-- Music-focused user experience
-
-<sub><strong>Stage:</strong> Project initiative</sub>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**Building ideas into useful technology, one project at a time.**
-
-</div>
-
-> **Project transparency:** These projects are at different stages. Some are concepts or planning initiatives, while others include practical development work. They are not all completed or deployed products.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<p align="center"><strong>Programming languages</strong></p>
+<p align="center"><strong>Programming languages & development</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,js,dart&theme=dark" alt="Programming language icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js,dart&theme=dark" alt="Programming languages" />
 </p>
 
-<p align="center"><strong>Web & mobile development</strong></p>
+<p align="center"><strong>Web, backend & mobile</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,django,flutter&theme=dark" alt="Web and mobile development icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,django,flutter&theme=dark" alt="Web and mobile technologies" />
 </p>
 
-<p align="center"><strong>Databases, tools & systems</strong></p>
+<p align="center"><strong>Databases, tools & operating systems</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,windows,linux&theme=dark" alt="Database and development tool icons" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,windows,linux&theme=dark" alt="Databases and development tools" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
   <img src="https://img.shields.io/badge/Networking-Fundamentals-1565C0?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking fundamentals" />
+  <img src="https://img.shields.io/badge/Electrical%20Engineering-Foundations-0f766e?style=for-the-badge&logo=electron&logoColor=white" alt="Electrical engineering foundations" />
 </p>
 
-*These icons represent technologies I have used, explored or am currently learning. They do not imply professional-level experience in every tool.*
+<sub>Technology icons represent tools I have used, studied or am currently exploring. They are not a claim of professional-level expertise in every technology.</sub>
 
 ---
 
-## 🚀 Featured Projects | Projets
+## 🚀 Selected Projects | Projets sélectionnés
+
+<p align="center">A mix of academic work, development repositories and product initiatives. Each project is labelled according to its current stage.</p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔗 KaziLink
-A workforce platform concept connecting skilled tradespeople and casual workers with job opportunities in the DRC.
+**Workforce & job-matching platform**
 
-**Focus:** Web, mobile, backend and databases.
+A platform initiative to connect skilled tradespeople and casual workers with job opportunities in the Democratic Republic of the Congo.
 
-**Stage:** Planning and development.
+- Worker and employer journeys
+- Job discovery and applications
+- Web and mobile product planning
+- Backend and database architecture
+
+![Planning](https://img.shields.io/badge/Stage-Planning%20%26%20development-0f766e?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎟️ Chillza Tickets
-An event discovery, registration and ticketing platform concept for the DRC.
+**Event discovery & ticketing**
 
-**Focus:** Event management, ticketing and digital payments.
+A ticketing and event-management platform concept designed for the DRC market.
 
-**Stage:** Planning and product design.
+- Event discovery and publishing
+- Free, paid and invitation events
+- Organiser tools and digital tickets
+- Payment integration planning
+
+[![Repository](https://img.shields.io/badge/Repository-CHILLAZ-181717?style=flat-square&logo=github)](https://github.com/JustinNMJ/CHILLAZ)
 
 </td>
 </tr>
@@ -331,21 +176,31 @@ An event discovery, registration and ticketing platform concept for the DRC.
 <td width="50%" valign="top">
 
 ### 🩺 Dr Gloire Consultation
-A consultation-management project focused on appointments and patient information.
+**Consultation management system**
 
-**Focus:** Django, PostgreSQL and APIs.
+A digital project focused on organising consultations, appointments and information workflows.
 
-[Repository](https://github.com/Justinnmj/Dr-Gloire)
+- Django and Python
+- PostgreSQL
+- API integration
+- Information management
+
+[![Repository](https://img.shields.io/badge/Repository-Dr--Gloire-181717?style=flat-square&logo=github)](https://github.com/JustinNMJ/Dr-Gloire)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚆 SNCC Train Reservation
-An academic railway reservation system concept covering schedules, passengers and seat reservations.
+**Railway reservation system**
 
-**Focus:** HTML, CSS, JavaScript, PHP and MySQL.
+An academic project exploring railway schedules, passenger records and seat reservations.
 
-**Stage:** Academic project.
+- HTML, CSS and JavaScript
+- PHP and MySQL development
+- Reservation workflows
+- Database design
+
+[![Repository](https://img.shields.io/badge/Repository-Train--booking-181717?style=flat-square&logo=github)](https://github.com/JustinNMJ/Train-booking)
 
 </td>
 </tr>
@@ -353,68 +208,86 @@ An academic railway reservation system concept covering schedules, passengers an
 <td width="50%" valign="top">
 
 ### 🌍 Talk(us)
-A culture, creativity and talent-sharing platform concept.
+**Culture, creativity & talent platform**
 
-**Focus:** Flutter, PWA and community technology.
+A product initiative exploring ways to share culture, showcase talent and connect communities.
 
-**Stage:** Concept and planning.
+- Community-focused product design
+- Flutter and PWA direction
+- Multilingual experience planning
+
+![Concept](https://img.shields.io/badge/Stage-Concept%20%26%20planning-d97706?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎼 Tom Music Scores
-A digital project for managing and sharing musical scores.
+**Digital music-score platform**
 
-**Focus:** Application design and database technology.
+A project initiative focused on organising and sharing musical scores.
 
-**Stage:** Project initiative.
+- Digital score management
+- Application and database design
+- Music-focused user experience
+
+[![Repository](https://img.shields.io/badge/Repository-tom--music--scores-181717?style=flat-square&logo=github)](https://github.com/JustinNMJ/tom-music-scores)
 
 </td>
 </tr>
 </table>
 
-> Project stages are described honestly. Some are concepts or planning initiatives, not completed or deployed products.
+<sub>Project stages differ. Some are academic implementations, some have repositories, and others remain product concepts or planning initiatives. I aim to keep each status accurate as development progresses.</sub>
 
 ---
 
-## 🎯 Current Focus | Objectifs actuels
+## 🎯 Current Learning Focus
 
-- Strengthening Python and Django development
-- Learning Flutter and cross-platform mobile development
+- Strengthening programming, Python and backend development
+- Building web applications and learning mobile development with Flutter
 - Improving database architecture and API integration
-- Practising Git, GitHub and collaborative workflows
-- Exploring cybersecurity and computer systems
-- Connecting business analysis with software engineering
+- Exploring AI applications and automation
+- Studying cybersecurity, networking and secure systems
+- Connecting business analysis with practical software solutions
+- Exploring electronics and embedded-system fundamentals
+- Learning how to contribute to open-source projects
 
 ---
 
-## 📊 GitHub Statistics
+## 🌱 Open Source & Collaboration
+
+I want to grow through practical collaboration: reading other people's code, reporting useful issues, improving documentation, fixing bugs and contributing tested changes.
+
+If you are building something useful in software, IT, engineering or digital innovation, I am interested in learning and collaborating.
+
+---
+
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=JustinNMJ&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinNMJ&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JustinNMJ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinNMJ&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 
 <img width="90%" src="https://streak-stats.demolab.com?user=JustinNMJ&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
-*Statistics and external images are provided by third-party services. They may occasionally be unavailable or take time to refresh.*
+<sub>Statistics and animations are rendered by third-party services and may occasionally be unavailable or delayed.</sub>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect & Collaborate
 
-I am open to learning opportunities, collaboration, technology projects and professional networking.
-
-- **GitHub:** [@JustinNMJ](https://github.com/JustinNMJ)
+I welcome opportunities to learn, contribute to open-source projects, collaborate on practical solutions and connect with developers and technology communities.
 
 <div align="center">
 
-### "Learn. Build. Innovate. Repeat."
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20%40JustinNMJ-181717?style=for-the-badge&logo=github)](https://github.com/JustinNMJ)
+
+### **LEARN · BUILD · SECURE · INNOVATE**
 
 *Turning knowledge into practical solutions.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:123b68,100:0f172a&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:172554,100:0b1020&height=115&section=footer" alt="Profile footer banner" />
 
 </div>
