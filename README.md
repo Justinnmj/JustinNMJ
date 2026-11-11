@@ -17,18 +17,41 @@
 
 ## 👨‍💻 About Me | À propos de moi
 
-I am a **Bachelor of Business Information Technology (BBIT)** student at **Strathmore University**, Nairobi, Kenya, with a background in Electrical Engineering.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🇬🇧 English
+
+I am a **Bachelor of Business Information Technology (BBIT)** student at **Strathmore University**, Nairobi, Kenya, with a background in **Electrical Engineering**.
 
 I am interested in software development, IT infrastructure, business technology and digital innovation. I enjoy turning ideas into practical digital solutions and learning by building.
 
-Je suis étudiant en **Business Information Technology (BBIT)** à Strathmore University, avec une formation antérieure en génie électrique. Je m'intéresse au développement logiciel, aux systèmes informatiques et à l'innovation numérique.
+</td>
+<td width="50%" valign="top">
 
-- 🎓 BBIT student — Strathmore University
-- ⚡ Background in Electrical Engineering
-- 💻 Interested in web, backend and mobile development
-- 🗄️ Learning database design, APIs and information systems
-- 🌍 Interested in practical technology solutions for African markets
-- 📚 Always learning, experimenting and improving
+### 🇫🇷 Français
+
+Je suis étudiant en **Business Information Technology (BBIT)** à **Strathmore University**, à Nairobi, au Kenya. J'ai également une formation en **génie électrique**.
+
+Je m'intéresse au développement logiciel, aux infrastructures informatiques, aux technologies d'entreprise et à l'innovation numérique. J'aime transformer des idées en solutions concrètes tout en apprenant par la pratique.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓-BBIT%20Student-123b68?style=for-the-badge" alt="BBIT student" />
+  <img src="https://img.shields.io/badge/⚡-Electrical%20Engineering-0f766e?style=for-the-badge" alt="Electrical Engineering background" />
+  <img src="https://img.shields.io/badge/🌍-African%20Tech%20Innovation-7c3aed?style=for-the-badge" alt="African technology innovation" />
+</p>
+
+- 🎓 **Education:** BBIT student — Strathmore University
+- ⚡ **Background:** Electrical Engineering
+- 💻 **Interests:** Web, backend and mobile development
+- 🗄️ **Learning:** Database design, APIs and information systems
+- 🌍 **Vision:** Practical technology solutions for African markets
+- 📚 **Mindset:** Always learning, experimenting and improving
 
 ---
 
@@ -36,18 +59,24 @@ Je suis étudiant en **Business Information Technology (BBIT)** à Strathmore Un
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 💻 Software Development
+
+Build and explore software solutions across different platforms.
+
 - Web application development
 - Programming fundamentals
 - Backend and API development
 - Mobile application development
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### ⚙️ IT & Engineering
+
+Understand the systems and infrastructure that make technology work.
+
 - Computer systems and troubleshooting
 - Hardware fundamentals
 - Networking fundamentals
@@ -56,18 +85,24 @@ Je suis étudiant en **Business Information Technology (BBIT)** à Strathmore Un
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 📊 Business Technology
+
+Connect technology with business needs and processes.
+
 - Business Information Systems
 - Database management
 - Requirements analysis
 - Digital business solutions
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🚀 Digital Innovation
+
+Explore ideas and turn them into practical digital products.
+
 - Digital platform concepts
 - Technology entrepreneurship
 - Product planning
